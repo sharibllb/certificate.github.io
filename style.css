@@ -68,6 +68,7 @@
             border-radius: 10px;
             /* background: none; */
             transition: .5s;
+            cursor: pointer;   
         }
 
         .btn:hover {
